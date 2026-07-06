@@ -1,0 +1,4 @@
+# Ignore Colab temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
