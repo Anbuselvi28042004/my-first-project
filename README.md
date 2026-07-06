@@ -20,5 +20,5 @@ You can open my notebook directly:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anbuselvi28042004/my-first-project/blob/main/02_6.ipynb)
 
 ---
-
+Improve README with better formatting
 **Feel free to explore!**
